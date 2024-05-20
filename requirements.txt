@@ -1,0 +1,6 @@
+requests
+redis
+fastapi
+pydantic
+dashscope
+apscheduler
